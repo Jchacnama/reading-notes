@@ -1,6 +1,6 @@
-# reading-notes
-Notas de lectura para mis cursos de Enter Tech School
-## Autor
+# Aprendiendo Markdown
+Lenguaje marcado que **facilita la aplicacion el formato** a un texto empleando una serie de caracteres de una forma especial.
+## Ques es Markdown
 - Josue Chacnama
 
 ## Creacion
