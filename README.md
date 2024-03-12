@@ -1,6 +1,16 @@
 # Aprendiendo Markdown
-## ¿Ques es Markdown?
-Lenguaje marcado que **facilita la aplicacion el formato** a un texto empleando una serie de caracteres de una forma especial.
+## 1. ¿Ques es Markdown?
+Un lenguaje sencillo de escribir, **simplifica el lenguaje**.
 
-## ¿Por qué utilizamos Markdown?
-- Lunes 11 de marzo del 2024
+## 2. ¿Por qué utilizamos Markdown?
+Utilizamos MD porque es **compatiple con todas las plataformas** que te permiten simplificar.
+
+## 3. a. (#), b. (##)
+
+## 4. **Negrita**, *Cursiva*
+
+## 5. 
+
+## 6. Listas:
+- Simbolos: (*),(-),(+)
+- Formato: cada elemento debe iniciar en una nueva linea.
