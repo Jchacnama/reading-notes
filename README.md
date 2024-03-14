@@ -3,7 +3,7 @@
 
 **Hola, soy Josue Chacnama**, la mayoria de mis amigos me llaman "Josh", Mi curiosidad por entender de como funcionan los lenguajes de programacion me llevaron a tomar este curso que es muy interesante.
 
-En este espacio podran conocer mi evolucion profesional este sector competitivo.
+En este espacio podran conocer mi evolucion profesional en este sector competitivo.
 
 ## Aqui encontraras mis repositorios por clase:
 1. [Clase 102](./102)
