@@ -8,5 +8,6 @@
 * Elemento
 
 3. ¿Cómo se llama cuando le das información extra a un elemento?
-
+Implementar "atributos" 
 4. ¿Qué es un elemento semántico?
+
