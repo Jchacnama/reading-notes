@@ -6,3 +6,4 @@ Es la forma que tiene este lenguaje de progrmacion para nombrar un valor
 3. **¿Qué es un operador de “asignación” y qué hace?**
 Asigna el valor de su operando derecho a su operando izquierdo.
 4. **¿Cómo se llama la información recibida del usuario?**
+entrada de usuario

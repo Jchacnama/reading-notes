@@ -9,5 +9,5 @@ Nos permite crear paginas web creativas, tambien se puede usar para cambiar esti
 3. Escribe un ejemplo de una regla CSS que daría texto rojo a todos los elementos <p>
 
 p {
-    color: red;
+    color: red; 
     }
