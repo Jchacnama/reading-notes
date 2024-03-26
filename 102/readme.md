@@ -9,3 +9,4 @@ Aqui encontraras mis trabajos realizados por clase.
 6. [class-06](./class_06.md)
 7. [class-07](./class_07.md)
 8. [class-08](./class_08.md)
+9. [Apuntes](./Notes_01.md)
